@@ -182,5 +182,4 @@ updateResults();
 close("*");
 Ext.Manager3D_Reset();
 
-
 }
